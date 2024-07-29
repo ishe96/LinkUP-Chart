@@ -48,7 +48,7 @@ const Auth = () => {
                 { username, secret },
                 {
                     headers: {
-                        "Private-Key": "96a3ff30-2da8-4dda-93e6-3ddcd42cfccf",
+                        "Private-Key": "b24b81fe-d62a-4c72-a39f-efd97cacf288",
                     },
                 }
             )
